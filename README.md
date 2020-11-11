@@ -15,8 +15,6 @@ I developped this plugin for the internal use of an organization (RAP), therefor
 
 * only works on Linux web hosts
 * only works with PHP 5.3.3+ (because of phpseclib used for sFTP)
-* only works for MySQL/MariaDB databases, because "mysqldump" is used for the database dump.
-  * It means it works only if your web host server HAS this tool installed. Which is true most of the case.
  
 License: GPLv3 or later
 
